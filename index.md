@@ -21,5 +21,5 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone was getting my dc motors to work with the motor driver. I ran into some difficulty with the speed control, but I was able to fix this by rewiring the five volt pin to the five volt port behind the ENA pin. Then I needed to wire the battery in a way to power my Audrino and my motor driver. I was able to get my DC motors to run withe a 6V battery pack. To connect all four motors to one motor driver I had to wire two motors to a port. I was able to get the motors to run, and to prvent the reduction of the speed of the motors, I will have to increase the voltage of the battery. 
 
-[![Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1624256239/video_to_markdown/images/youtube--l9SBrnN-V3k-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/l9SBrnN-V3k "Milestone 1")
-{:target="_blank" rel="noopener"}
+[![Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1624256239/video_to_markdown/images/youtube--l9SBrnN-V3k-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/l9SBrnN-V3k "Milestone 1"){:target="_blank" rel="noopener"}
+
