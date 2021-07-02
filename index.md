@@ -8,7 +8,8 @@ A car controlled by hand gestures recoreded with a remote camera.
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
 
 # Demo Night
- 
+[![Demo Night Presentation](https://res.cloudinary.com/marcomontalbano/image/upload/v1625246002/video_to_markdown/images/youtube--d3aIzg7xNMY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=d3aIzg7xNMY "Demo Night Presentation"){:target="_blank" rel="noopener"}
+
 # Final Milestone
 My final milestone was to mount the motors on the chassis and get the accelerometer values to move the motors. As I was able to communicate the x and y acceleration values to the ESP32 on the car, I used those values to give the car direction. The car would go forward if the x values were positive and backwards if the values were negative. To turn left or right I had one set of motors turn backwards and one set turn forwards. 
 
