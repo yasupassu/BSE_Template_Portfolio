@@ -5,7 +5,7 @@ A car controlled by hand gestures recoreded with a remote camera.
 |:--:|:--:|:--:|:--:|
 | Yasmin Husain | Evergreen Valley High School | Robotics | Incoming Senior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://i.imgur.com/av0lSgR.jpeg)
 
 # Demo Night
 [![Demo Night Presentation](https://res.cloudinary.com/marcomontalbano/image/upload/v1625246002/video_to_markdown/images/youtube--d3aIzg7xNMY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=d3aIzg7xNMY "Demo Night Presentation"){:target="_blank" rel="noopener"}
