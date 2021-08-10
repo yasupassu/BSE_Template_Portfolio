@@ -13,7 +13,7 @@ A car controlled by hand gestures recoreded with a remote camera.
 # Final Milestone
 My final milestone was to mount the motors on the chassis and get the accelerometer values to move the motors. As I was able to communicate the x and y acceleration values to the ESP32 on the car, I used those values to give the car direction. The car would go forward if the x values were positive and backwards if the values were negative. To turn left or right I had one set of motors turn backwards and one set turn forwards. 
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1628560981/video_to_markdown/images/youtube--_Kh4Z2_YrRo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=_Kh4Z2_YrRo&ab_channel=BlueStampEng "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
 My second milestone was to communicate the accelerometer values from one ESP32 to the one on the car. I had some difficulty getting the values to appear on the recieving ESP32 serial monitor, but I was able to fix this by changing the source code in the library. After doing this I was able to communicate the x, y, z acceleration values and the rotation values. The only values I needed were the x and y values of acceleration so I only communicated those values to the ESP32 on the car. 
